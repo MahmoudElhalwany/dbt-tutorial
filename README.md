@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to tutorial dbt project on employess database in clickhouse!
 
 ### Using the starter project
 
