@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: dbt_employees
+    tables:
+      - name: employees
+      - name: departments
+      - name: dept_manager
+      - name: dept_emp
+      - name: salaries
